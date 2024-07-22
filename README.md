@@ -1,3 +1,3 @@
 # BALLS
 
-A ball bouncing simulation 
+A bouncing ball simulation
